@@ -1,0 +1,19 @@
+{
+  "name": "forty-two-token",
+  "version": "1.0.0",
+  "description": "42 Tokenizer Project - BEP-20 Token on BSC Testnet",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js",
+    "deploy:testnet": "hardhat run scripts/deploy.js --network bscTestnet"
+  },
+  "keywords": ["blockchain", "token", "bep-20", "bsc", "42"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0",
+    "dotenv": "^16.3.1"
+  }
+}
