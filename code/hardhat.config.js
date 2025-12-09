@@ -6,7 +6,7 @@ module.exports = {
   solidity: "0.8.20",
   networks: {
     hardhat: {
-      // 로컬 테스트용 네트워크
+      // Local test network
     },
     bscTestnet: {
       url: "https://data-seed-prebsc-1-s1.binance.org:8545/",
@@ -15,8 +15,9 @@ module.exports = {
     },
   },
   etherscan: {
-    apiKey: {
-      bscTestnet: process.env.BSCSCAN_API_KEY || "",
-    },
+    apiKey: process.env.BSCSCAN_API_KEY || "",
+  },
+  sourcify: {
+    enabled: false,
   },
 };

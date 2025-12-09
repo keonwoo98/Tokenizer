@@ -1,0 +1,21 @@
+{
+  "network": "BSC Testnet",
+  "chainId": 97,
+  "deploymentDate": "2025-12-09",
+  "contract": {
+    "name": "FortyTwoToken",
+    "address": "0xa2b57d8502bd619693E4f00EF2756B721D3699E5",
+    "verified": true
+  },
+  "token": {
+    "name": "Forty Two Token",
+    "symbol": "F42T",
+    "decimals": 18,
+    "initialSupply": "42000000"
+  },
+  "deployer": "0xE6CB80D7d2439512b36f841FF8F82a87500f220b",
+  "links": {
+    "bscscan": "https://testnet.bscscan.com/address/0xa2b57d8502bd619693E4f00EF2756B721D3699E5",
+    "sourceCode": "https://testnet.bscscan.com/address/0xa2b57d8502bd619693E4f00EF2756B721D3699E5#code"
+  }
+}
