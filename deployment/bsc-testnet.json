@@ -1,10 +1,11 @@
 {
   "network": "BSC Testnet",
   "chainId": 97,
-  "deploymentDate": "2025-12-09",
+  "deploymentDate": "2025-12-10",
+  "version": "2.0.0 (with Multisig)",
   "contract": {
     "name": "FortyTwoToken",
-    "address": "0xa2b57d8502bd619693E4f00EF2756B721D3699E5",
+    "address": "0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa",
     "verified": true
   },
   "token": {
@@ -13,9 +14,20 @@
     "decimals": 18,
     "initialSupply": "42000000"
   },
+  "multisig": {
+    "signers": ["0xE6CB80D7d2439512b36f841FF8F82a87500f220b"],
+    "requiredSignatures": 1
+  },
   "deployer": "0xE6CB80D7d2439512b36f841FF8F82a87500f220b",
   "links": {
-    "bscscan": "https://testnet.bscscan.com/address/0xa2b57d8502bd619693E4f00EF2756B721D3699E5",
-    "sourceCode": "https://testnet.bscscan.com/address/0xa2b57d8502bd619693E4f00EF2756B721D3699E5#code"
-  }
+    "bscscan": "https://testnet.bscscan.com/address/0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa",
+    "sourceCode": "https://testnet.bscscan.com/address/0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa#code"
+  },
+  "previousDeployments": [
+    {
+      "version": "1.0.0 (without Multisig)",
+      "address": "0xa2b57d8502bd619693E4f00EF2756B721D3699E5",
+      "date": "2025-12-09"
+    }
+  ]
 }
