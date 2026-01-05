@@ -15,9 +15,10 @@ A BEP-20 token project built on BNB Smart Chain for the 42 x BNB Chain partnersh
 | Decimals | 18 |
 | Total Supply | 42,000,000 F42T |
 | Network | BSC Testnet (Chain ID: 97) |
-| Contract Address | `0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa` |
+| Contract Address | `0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E` |
+| Multisig | 2-of-3 (3 signers, 2 required) |
 
-**BSCScan:** https://testnet.bscscan.com/address/0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa#code
+**BSCScan:** https://testnet.bscscan.com/address/0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E#code
 
 ## Features
 
