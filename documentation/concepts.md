@@ -1162,10 +1162,10 @@ Multisig 방식 (2-of-3):
          │           │           │
          └─────┬─────┘           │
                │                 │
-         2명 이상 승인            │
+           2명 이상 승인            │
                │                 │
                ▼                 │
-          트랜잭션 실행          (선택)
+           트랜잭션 실행          (선택)
 
 장점:
 → 한 명의 키가 유출되어도 안전
@@ -1301,12 +1301,12 @@ function confirmTransaction(uint256 txId)
 
 | 항목 | 값 |
 |------|-----|
-| **Contract Address** | `0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa` |
+| **Contract Address** | `0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E` |
 | **Network** | BSC Testnet (Chain ID: 97) |
 | **Token Name** | Forty Two Token |
 | **Symbol** | F42T |
 | **Total Supply** | 42,000,000 F42T |
-| **BSCScan** | https://testnet.bscscan.com/address/0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa#code |
+| **BSCScan** | https://testnet.bscscan.com/address/0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E#code |
 
 ### 구현된 기능
 

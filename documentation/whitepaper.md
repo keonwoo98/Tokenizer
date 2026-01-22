@@ -4,11 +4,11 @@
 
 FortyTwoToken is a BEP-20 compliant token deployed on BNB Smart Chain Testnet, featuring a built-in multisignature security system for sensitive operations.
 
-**Contract Address**: `0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa`
+**Contract Address**: `0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E`
 
 **Network**: BSC Testnet (Chain ID: 97)
 
-**BSCScan**: https://testnet.bscscan.com/address/0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa#code
+**BSCScan**: https://testnet.bscscan.com/address/0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E#code
 
 ---
 
@@ -262,12 +262,12 @@ Tokenizer/
 1. Open MetaMask
 2. Switch to BSC Testnet
 3. Click "Import tokens"
-4. Enter contract address: `0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa`
+4. Enter contract address: `0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E`
 5. F42T token appears in wallet
 
 ### Interacting via BSCScan
 
-1. Go to [Contract Page](https://testnet.bscscan.com/address/0x195B7b68Cd3D9648FbD5e387a22377de922A22Fa#code)
+1. Go to [Contract Page](https://testnet.bscscan.com/address/0x24805c13d21572A237FEbfa83B2B7782Ceab7a2E#code)
 2. Click "Read Contract" for queries
 3. Click "Write Contract" and connect wallet for transactions
 
